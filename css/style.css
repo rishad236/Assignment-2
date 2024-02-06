@@ -1,0 +1,65 @@
+
+body { 
+    margin: 0px;
+  }
+  
+header{
+    background-image: linear-gradient(rgba(147, 90, 255, 0.7), rgba(160, 7, 243, 0.91)),url("../img/img2.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: #e1e1e1e6;
+    padding: 1px;
+    font-family: 'Fredericka the Great', cursive;
+  }
+
+  .headertop h2{
+    
+    color: rgb(59, 4, 131);
+    padding-top: 5em;
+    text-align: center;
+    font-size: 3em; 
+    line-height: 25px;
+  }
+  .headertop h3{  
+    color: rgb(138, 14, 172);
+    font-size: 1.5em; 
+    text-align: center;
+  } 
+
+.lyrics{
+    text-align: center;
+    justify-content: center;
+}
+  
+.weare{
+    font-family: 'Bangers', cursive;
+    font-size: 1.5em;
+
+}
+
+.first{
+    background-color: rgb(12, 11, 11);
+    color: whitesmoke;
+    padding: 5%;
+    font-size: 1.3em;
+    font-family: 'Merienda', cursive;
+
+    
+    
+}
+.second{
+    background-color: rgb(80, 0, 93);
+    padding: 5% 26% 5% 0%;
+    font-size: 1.5em;
+    /* font-weight: 400; */
+    font-family: 'Pacifico', cursive;
+    color: antiquewhite;
+}
+
+.footer{
+  background-color: rgb(255, 255, 255);
+  padding: 1px;
+  text-align: center;
+  color: #ffffff;
+
+}
